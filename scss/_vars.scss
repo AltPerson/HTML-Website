@@ -1,0 +1,5 @@
+@mixin prefix(){
+	progress::-webkit-progress-value{
+  	background-color:#ff6e47;
+	} 
+}
